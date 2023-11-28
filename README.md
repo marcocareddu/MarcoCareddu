@@ -58,14 +58,12 @@
 
 </div>
 
-<h2 align="left">Statistiche</h2>
+<h2 align="center">Statistiche</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcoCareddu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=it&hide_border=false&order=1" height="150" alt="stats graph">
-</div>
-<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoCareddu&locale=it&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph">
 </div>
 
